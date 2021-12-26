@@ -124,6 +124,8 @@ include:
   - .htaccess
   - _pages
   - files
+  - assets
+  - images
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -138,9 +140,9 @@ exclude:
   - LICENSE
   - README
   - Rakefile
-  - assets/js/_main.js
-  - assets/js/plugins
-  - assets/js/vendor
+  # - assets/js/_main.js
+  # - assets/js/plugins
+  # - assets/js/vendor
   - config
   - gulpfile.js
   - log
