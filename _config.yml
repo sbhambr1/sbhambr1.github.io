@@ -124,7 +124,7 @@ include:
   - .htaccess
   - _pages
   - files
-  - assets
+  # - assets
   - images
 exclude:
   - "*.sublime-project"
