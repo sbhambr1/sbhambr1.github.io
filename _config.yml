@@ -83,7 +83,7 @@ analytics:
 # Site Author
 author:
   name             : "Siddhant Bhambri"
-  avatar           : "/images/profile.jpg"
+  avatar           : "/files/profile.jpg"
   bio              : "CS Ph.D. @ Yochan"
   location         : "Tempe, AZ"
   employer         :
@@ -123,9 +123,8 @@ author:
 include:
   - .htaccess
   - _pages
+  - _publications
   - files
-  # - assets
-  - images
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
