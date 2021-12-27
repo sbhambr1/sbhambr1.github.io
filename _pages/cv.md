@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="file_name.pdf" width="800px" height="2100px" />
+<embed src="https://github.com/sbhambr1/sbhambr1.github.io/raw/main/files/R%C3%A9sum%C3%A9.pdf" width="800px" height="2100px" />
 
 <!-- Education
 ======
