@@ -11,13 +11,13 @@ redirect_from:
 
 <embed src="https://github.com/sbhambr1/sbhambr1.github.io/raw/main/files/R%C3%A9sum%C3%A9.pdf" type="application/pdf" width="800px" height="2100px" />
 
-<iframe
+<!-- <iframe
     src="https://drive.google.com/file/d/1RfetDsCi0hHhz1ttyPFz9TReuuT91jxl/view?usp=sharing"
     frameBorder="0"
     scrolling="auto"
     height="100%"
     width="100%"
-></iframe>
+></iframe> -->
 
 
 <!-- Education
