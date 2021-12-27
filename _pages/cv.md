@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Siddhant Bhambri - CV"
+title: "Résumé"
 permalink: /cv/
 author_profile: true
 redirect_from:

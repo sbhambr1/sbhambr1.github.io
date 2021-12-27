@@ -1,5 +1,5 @@
 layout: archive
-title: "Siddhant Bhambri - Teaching & Service"
+title: "Teaching & Service"
 permalink: /teaching&service/
 author_profile: true
 ---
