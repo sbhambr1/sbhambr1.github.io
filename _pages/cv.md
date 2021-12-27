@@ -8,10 +8,10 @@ redirect_from:
 ---
 
 {% include base_path %}
-<!-- 
-<embed src="https://github.com/sbhambr1/sbhambr1.github.io/raw/main/files/R%C3%A9sum%C3%A9.pdf" type="application/pdf" width="800px" height="2100px" /> -->
+{{ base_path }}/assets/css/main.css"
+<embed src="{{ base_path }}/files/Résumé.pdf"" type="application/pdf" width="800px" height="2100px" />
 
-<iframe class="render-viewer " src="https://github.com/sbhambr1/sbhambr1.github.io/raw/main/files/R%C3%A9sum%C3%A9.pdf" sandbox="allow-scripts allow-same-origin allow-top-navigation" title="File display" name="ea505887-29da-4792-a165-ee8445438a6c"></iframe>
+<!-- <iframe class="render-viewer " src="https://github.com/sbhambr1/sbhambr1.github.io/raw/main/files/R%C3%A9sum%C3%A9.pdf" sandbox="allow-scripts allow-same-origin allow-top-navigation" title="File display" name="ea505887-29da-4792-a165-ee8445438a6c"></iframe> -->
 
 <!-- <iframe
     src="https://drive.google.com/file/d/1RfetDsCi0hHhz1ttyPFz9TReuuT91jxl/view?usp=sharing"
