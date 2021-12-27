@@ -9,8 +9,8 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Siddhant Bhambri"
-title_separator          : "-"
+title                    : ""
+title_separator          : ""
 name                     : &name "Siddhant Bhambri"
 description              : &description "Computer Science Ph.D. student @ Yochan Lab, ASU"
 url                      : https://sbhambr1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -288,7 +288,7 @@ whitelist:
 #  - <base_path/my-awesome-category/index.html ~> path: /
 category_archive:
   type: liquid
-  path: /
+  path: /categories/
 tag_archive:
   type: liquid
   path: /tags/
