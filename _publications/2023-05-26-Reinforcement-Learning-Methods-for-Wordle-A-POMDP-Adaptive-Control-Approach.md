@@ -8,8 +8,3 @@ venue: 'IEEE Conference on Games (CoG) 2023'
 paperurl: 'https://arxiv.org/abs/2211.10298'
 citation: 'Bhambri, Siddhant, Amrita Bhattacharjee, and Dimitri Bertsekas. "Reinforcement Learning Methods for Wordle: A POMDP/Adaptive Control Approach." arXiv preprint arXiv:2211.10298 (2022).'
 ---
-<!-- **Abstract**: In this paper we address the solution of the popular Wordle puzzle, using new reinforcement learning methods, which apply more generally to adaptive control of dynamic systems and to classes of Partially Observable Markov Decision Process (POMDP) problems. These methods are based on approximation in value space and the rollout approach, admit a straightforward implementation, and provide improved performance over various heuristic approaches. For the Wordle puzzle, they yield on-line solution strategies that are very close to optimal at relatively modest computational cost. Our methods are viable for more complex versions of Wordle and related search problems, for which an optimal strategy would be impossible to compute. They are also applicable to a wide range of adaptive sequential decision problems that involve an unknown or frequently changing environment whose parameters are estimated on-line.
-
-[Download paper here](https://github.com/sbhambr1/siddhantbhambri.github.io/raw/master/files/Contrastively%20Learning%20Visual%20Attention%20as%20Affordance%20Cues%20from%20Demonstrations%20for%20Robotic%20Grasping.pdf) -->
-
-<!-- Recommended citation: Y. Zha, S. Bhambri and L. Guan, "Contrastively Learning Visual Attention as Affordance Cues from Demonstrations for Robotic Grasping," 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021, pp. 7835-7842, doi: 10.1109/IROS51168.2021.9636760. -->
