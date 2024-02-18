@@ -7,13 +7,13 @@ author_profile: true
 
 ## Invited Talks
 
-- **Fall 2023** "Large Language Models for Human-Aware AI".
+- **Fall 2023** "Large Language Models for Human-Aware AI".\
 AI Day @ School of Computing & Augmented Intelligence, Arizona State University.
 
-- **Spring 2023** "Reinforcement Learning for Wordle- A POMDP/Adaptive Control Approach".
+- **Spring 2023** "Reinforcement Learning for Wordle- A POMDP/Adaptive Control Approach".\
 CSE 691: Dr. Dimitri Bertsekas, Arizona State University.
 
-- **Fall 2022** "Connecting Rollout, Adaptive Control & Search Heuristics- A case study using Wordle".
+- **Fall 2022** "Connecting Rollout, Adaptive Control & Search Heuristics- A case study using Wordle".\
 CSE 574: Dr. Subbarao Kambhampati, Arizona State University.
 
 ## Teaching Assistantships
