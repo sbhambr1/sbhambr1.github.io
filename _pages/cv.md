@@ -18,14 +18,10 @@ If the embedded PDF below does not load, you can download my Résumé from [here
 
 <!-- <iframe class="render-viewer " src="https://github.com/sbhambr1/sbhambr1.github.io/raw/main/files/R%C3%A9sum%C3%A9.pdf" sandbox="allow-scripts allow-same-origin allow-top-navigation" title="File display" name="ea505887-29da-4792-a165-ee8445438a6c"></iframe> -->
 
-<!-- <iframe
-    src="https://drive.google.com/file/d/1RfetDsCi0hHhz1ttyPFz9TReuuT91jxl/view?usp=sharing"
+<iframe
+    src="https://drive.google.com/file/d/1HnFmbFf03i2dROonYMBMzD0xJxEdmJI-/view?usp=share_link"
     frameBorder="0"
     scrolling="auto"
     height="100%"
     width="100%"
-></iframe> -->
-
-<embed src="https://drive.google.com/file/d/1HnFmbFf03i2dROonYMBMzD0xJxEdmJI-/view?usp=share_link" type="application/pdf" width="100%" height="600px" />
-
-
+></iframe>
