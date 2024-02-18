@@ -9,7 +9,7 @@ redirect_from:
 
 <!-- {% include base_path %} -->
 
-<!-- If the embedded PDF below does not load, you can download my Résumé from [here](https://drive.google.com/file/d/1HnFmbFf03i2dROonYMBMzD0xJxEdmJI-/view?usp=share_link). -->
+If the embedded PDF below does not load, you can download my Résumé from [here](https://drive.google.com/file/d/1HnFmbFf03i2dROonYMBMzD0xJxEdmJI-/view?usp=share_link).
 
 <!-- <embed src="https://github.com/sbhambr1/sbhambr1.github.io/raw/main/files/R%C3%A9sum%C3%A9.pdf"" type="application/pdf" width="800px" height="2100px" /> -->
 
@@ -26,8 +26,8 @@ redirect_from:
     width="100%"
 ></iframe> -->
 
-<object data="https://drive.google.com/file/d/1HnFmbFf03i2dROonYMBMzD0xJxEdmJI-/view?usp=share_link" type="application/pdf" width="700px" height="700px">
+<!-- <object data="https://drive.google.com/file/d/1HnFmbFf03i2dROonYMBMzD0xJxEdmJI-/view?usp=share_link" type="application/pdf" width="700px" height="700px">
     <embed src="https://drive.google.com/file/d/1HnFmbFf03i2dROonYMBMzD0xJxEdmJI-/view?usp=share_link">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://drive.google.com/file/d/1HnFmbFf03i2dROonYMBMzD0xJxEdmJI-/view?usp=share_link">Download PDF</a>.</p>
     </embed>
-</object>
+</object> -->
