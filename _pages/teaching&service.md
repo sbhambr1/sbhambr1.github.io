@@ -26,16 +26,21 @@ Dr. Subbarao Kambhampati, Arizona State University.
 
 ## Reviewing
 
+- (**NeurIPS**) Neural Information Processing Systems 2024
+
+- (**ICML**) International Conference on Machine Learning - LLMs and Cognition Workshop 2024.
+
+- (**RLC**) Reinforcement Learning Conference - Training Agents with Foundational Models Workshop 2024.
+
 - (**ICLR**) 2024 International Conference on Learning Representations - Generative AI for Decision Making workshop.
 
 - (**IJCAI**) 2024 International Joint Conference on Artificial Intelligence - Program Committee (PC) Member.
 
 - (**NeurIPS**) 2023 Workshop on Generalization in Planning.
 
-- (**ICML**) International Conference on Machine Learning 2023 - Workshop on Theory of Mind in Com-
-municating Agents.
+- (**ICML**) International Conference on Machine Learning 2023 - Workshop on Theory of Mind in Communicating Agents.
 
-- (**GameSec**) Conference on Decision and Game Theory for Security 2023 - Technical Program Com- mittee (PC) Member.
+- (**GameSec**) Conference on Decision and Game Theory for Security 2023 - Technical Program Committee (PC) Member.
 
 - (**ICAPS**) International Conference on Automated Planning and Scheduling 2023 - Human Aware and Explainable Planning Workshop.
 
