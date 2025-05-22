@@ -25,7 +25,7 @@ Earlier, I completed my undergraduate studies majoring in Computer Science from 
 
 - [April 2025] I successfully defended my PhD Proposal Defense titled **"Role of Large Language Models in Human-AI Interaction: A Critical Appraisal"**.
 
-- [March 2025] My YouTube podcast/interview titled [Beyond ChatGPT: The Future of Human-Aware AI Agents | Siddhant Bhambri- ASU AI Researcher](https://www.youtube.com/watch?si=G-84-w4ocMTyhlKy&v=tVg8JIOD_BY&feature=youtu.be) hosted by [Ones Changing The World - 1CW](https://www.youtube.com/@1CWpodcast) is out.
+- [March 2025] My YouTube podcast/interview titled [Beyond ChatGPT: The Future of Human-Aware AI Agents](https://www.youtube.com/watch?si=G-84-w4ocMTyhlKy&v=tVg8JIOD_BY&feature=youtu.be) hosted by [Ones Changing The World - 1CW](https://www.youtube.com/@1CWpodcast) is out.
 
 - [Janary 2025] My YouTube podcast titled [CS PhD in the USA Demystified: Your Ultimate Guide to Deciding, Preparing, Applying, and Succeeding!](https://www.youtube.com/watch?v=535CIprP_bw) hosted by [Turning Turing](https://www.youtube.com/@turningturing9217) is out.
 
