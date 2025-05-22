@@ -9,12 +9,9 @@ redirect_from:
 ---
 
 
-
-<div align="center">
-
-*"To live life is to take decisions, and to take decisions is to reason and plan."* 
-
-</div>
+<!-- <div align="center"> -->
+***"To live life is to take decisions, and to take decisions is to reason and plan."***
+<!-- </div> -->
 
 I am a fifth year Ph.D. student under the supervision of [Dr. Subbarao Kambhampati](https://rakaposhi.eas.asu.edu/) in [Yochan Lab](https://yochan-lab.github.io/home/) at the School of Computing & AI, Arizona State University. 
 
