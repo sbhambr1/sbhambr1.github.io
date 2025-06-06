@@ -7,6 +7,10 @@ author_profile: true
 
 ## Invited Talks
 
+- **Spring 2025** "Beyond ChatGPT: The Future of Human-Aware AI Agents — Siddhant Bhambri - ASU AI Researcher" [YouTube Podcast Link](https://www.youtube.com/watch?si=G-84-w4ocMTyhlKy&v=tVg8JIOD_BY&feature=youtu.be&themeRefresh=1).
+
+- **Spring 2025** "CS PhD in the USA Demystified: Your Ultimate Guide to Deciding, Preparing, Applying, and Succeeding!" [YouTube Podcast Link](https://www.youtube.com/watch?si=oiZE33Bs9flwkxO0&v=535CIprP_bw&feature=youtu.be).
+
 - **Fall 2023** "Large Language Models for Human-Aware AI".  
 AI Day @ School of Computing & Augmented Intelligence, Arizona State University.
 
@@ -26,28 +30,24 @@ Dr. Subbarao Kambhampati, Arizona State University.
 
 ## Reviewing
 
-- (**NeurIPS**) Neural Information Processing Systems 2024
+- (**ICLR**) International Conference on Learning Representations - 2024, 2025
 
-- (**ICML**) International Conference on Machine Learning - LLMs and Cognition Workshop 2024.
+- **(NeurIPS)** Neural Information Processing Systems - 2023, 2024, 2025
 
-- (**RLC**) Reinforcement Learning Conference - Training Agents with Foundational Models Workshop 2024.
+- **(ICML)** International Conference on Machine Learning - 2023, 2024, 2025
 
-- (**ICLR**) 2024 International Conference on Learning Representations - Generative AI for Decision Making workshop.
+- **(AISTATS)** International Conference on Artificial Intelligence and Statistics - 2025
 
-- (**IJCAI**) 2024 International Joint Conference on Artificial Intelligence - Program Committee (PC) Member.
+- **(RLC)** Reinforcement Learning Conference - 2024
 
-- (**NeurIPS**) 2023 Workshop on Generalization in Planning.
+- **(IJCAI)** International Joint Conference on Artificial Intelligence - PC Member 2024
 
-- (**ICML**) International Conference on Machine Learning 2023 - Workshop on Theory of Mind in Communicating Agents.
+- **(GameSec)** Conference on Decision and Game Theory for Security - PC Member 2023, 2024
 
-- (**GameSec**) Conference on Decision and Game Theory for Security 2023 - Technical Program Committee (PC) Member.
+- **(ICAPS)** International Conference on Automated Planning and Scheduling - 2023, 2024
 
-- (**ICAPS**) International Conference on Automated Planning and Scheduling 2023 - Human Aware and Explainable Planning Workshop.
+- **(RA-L)** IEEE Robotics and Automation Letters - 2022, 2024
 
-- (**SBP-BRiMS**) International Conference on Social Computing, Behavioral-Cultural Modeling & Pre- diction and Behavior Representation in Modeling and Simulation 2023 (Sub-reviewer).
+- **(IROS)** IEEE International Conference on Intelligent Robots And Systems - 2021, 2022
 
-- (**RA-L**) IEEE Robotics and Automation Letters 2022.
-
-- (**IROS**) IEEE International Conference on Intelligent Robots And Systems 2021, 2022.
-
-- (**TDSC**) IEEE Transactions on Dependable and Secure Computing 2021.  
+- **(TDSC)** IEEE Transactions on Dependable and Secure Computing - 2021
