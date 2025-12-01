@@ -23,7 +23,7 @@ Earlier, I completed my undergraduate studies majoring in Computer Science from 
 
 - [December 2025] I will be attending [NeurIPS 2025](https://nips.cc/) in San Diego, CA and will be presenting three posters on my recent work: 1 **"Interpretable Traces, Unexpected Outcomes: Investigating the Disconnect in Trace-based Knowledge Distillation"**, and 2) **"Do Cognitively Interpretable Reasoning Traces Improve LLM Performance?"**, and 3) **"Local Coherence or Global Validity? Investigating RLVR Traces in Math Domains"**.
 
-- [November 2025] I successfully defended my PhD Dissertation titled **"Role of Large Language Models in Human-AI Interaction: A Critical Appraisal"**.
+- [November 2025] I successfully defended my PhD Dissertation titled **"Role of Large Language Models in Human-AI Interaction: A Critical Appraisal"**. Check out the defense video on [YouTube](https://www.youtube.com/watch?v=mzAH3nu43ZI).
 
 - [October 2025] I gave an invited talk at Ai2: The Allen Institute for Artificial Intelligence titled **"Role of Large Language Models in Human-AI Interaction: A Critical Appraisal"**. Watch the [video](https://www.youtube.com/watch?v=rjZUBeDd1Eg).
 
