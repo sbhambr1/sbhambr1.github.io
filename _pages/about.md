@@ -13,13 +13,19 @@ redirect_from:
 ***"To live life is to take decisions, and to take decisions is to reason and plan."***
 <!-- </div> -->
 
-I am a fifth year Ph.D. student under the supervision of [Dr. Subbarao Kambhampati](https://rakaposhi.eas.asu.edu/) in [Yochan Lab](https://yochan-lab.github.io/home/) at the School of Computing & AI, Arizona State University. 
+I recently completed my Ph.D. (November 2026) under the supervision of [Dr. Subbarao Kambhampati](https://rakaposhi.eas.asu.edu/) in [Yochan Lab](https://yochan-lab.github.io/home/) at the School of Computing & AI, Arizona State University. 
 
 My research centers on the design and implementation of intelligent AI systems that empower human decision-making through the synergistic application of Large Language Models (LLMs), Large Reasoning Models (LRMs), and Reinforcement Learning (RL). My work critically examines the strengths and weaknesses of Foundational Models from a Human-AI Interaction standpoint, specifically investigating how these models can be tailored to meet the needs of real-world users and facilitate seamless human-AI collaboration for improved and more reliable decision outcomes across various domains.
 
 Earlier, I completed my undergraduate studies majoring in Computer Science from [Delhi Technological University](http://dtu.ac.in/), India. In the past, I have worked and collaborated with research groups at [IIIT, Delhi](http://faculty.iiitd.ac.in/~arunb/) focusing on the topics of Preference-based Reinforcement Learning and Adversarial Machine Learning. 
 
 ## News
+
+- [December 2025] I will be attending [NeurIPS 2025](https://nips.cc/) in San Diego, CA and will be presenting three posters on my recent work: 1 **"Interpretable Traces, Unexpected Outcomes: Investigating the Disconnect in Trace-based Knowledge Distillation"**, and 2) **"Do Cognitively Interpretable Reasoning Traces Improve LLM Performance?"**, and 3) **"Local Coherence or Global Validity? Investigating RLVR Traces in Math Domains"**.
+
+- [November 2025] I successfully defended my PhD Dissertation titled **"Role of Large Language Models in Human-AI Interaction: A Critical Appraisal"**.
+
+- [October 2025] I gave an invited talk at Ai2: The Allen Institute for Artificial Intelligence titled **"Role of Large Language Models in Human-AI Interaction: A Critical Appraisal"**. Watch the [video](https://www.youtube.com/watch?v=rjZUBeDd1Eg).
 
 - [May 2025] Our paper titled **"Do Think Tags Really Help LLMs Plan? A Critical Evaluation of ReAct-Style Prompting"** was accepted at TMLR - Transactions on Machine Learning Research. Check out the [paper](https://openreview.net/forum?id=aFAMPSmNHR&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DTMLR%2FAuthors%23your-submissions)) and the [video](https://youtu.be/F8XNJ7tAcBE).
 
