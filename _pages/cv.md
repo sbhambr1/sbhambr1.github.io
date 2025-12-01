@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-If the embedded PDF below does not load, you can download my Résumé from [here](https://drive.google.com/file/d/1HnFmbFf03i2dROonYMBMzD0xJxEdmJI-/view?usp=share_link).
+{% include resume-embed.html %}
 
